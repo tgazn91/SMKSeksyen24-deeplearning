@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Private files (not for students)
+notebooks/02_text_classification.ipynb
+notebooks/03_tabular_and_collab.ipynb
+pdlfc_l1_transcription.md
+pdlfc_l2_transcription.md
