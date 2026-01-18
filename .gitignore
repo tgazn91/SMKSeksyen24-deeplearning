@@ -1,0 +1,17 @@
+# Downloaded images (students will download their own)
+malaysian_food/
+my_classifier/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+*.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
